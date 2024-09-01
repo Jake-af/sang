@@ -79,6 +79,7 @@ h1 {
 p {
     display: inline;
     margin:5px;
+    padding: 5px;
     color: rgb(252,252,252);
 }
 .lang-labels {
