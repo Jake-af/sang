@@ -1,6 +1,13 @@
+@font-face {
+    font-family: lemonada;
+    src: url(Lemonada-Regular.ttf);
+    font-style:normal;
+    font-weight: 400;
+  }
 body {
     background-color: rgb(43,41,53);
-    font-family: "Lemonada";
+    font-family: lemonada;
+
 }
 #all-content {
     width: 1000px;
