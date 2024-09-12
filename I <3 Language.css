@@ -30,6 +30,10 @@ body {
     border-color: rgb(180,65,79);
     border-radius: 10px;
     margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
 }
 #top {
     width:890px;
@@ -117,4 +121,9 @@ td {
     padding:5px;
     color: rgb(252,252,252);
     text-align: center;
+}
+#icon {
+    height:85px;
+    width:85px;
+    margin-top:5px;
 }
